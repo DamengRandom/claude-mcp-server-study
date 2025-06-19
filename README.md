@@ -24,6 +24,7 @@ touch claude_desktop_config.json
     }
   }
 }
+# Finally, you will see 2 commands under here:
 ```
-<!-- Finally, you will see 2 commands under here: -->
+
 ![image.png](public/image.png)
